@@ -1,12 +1,10 @@
-# Computational Conformal Geometry Homework
+# Harmonic Map
 
-Note: For this assignment, you must replace shaderPath of your own in viewer.cpp. Otherwise, the program will crash!
+Note: You must replace shaderPath of your own in viewer.cpp. Otherwise, the program will crash!
 
 /* Input your own shader path */
 std::string shaderPath("C:/proj/Assignment2/harmonic_map/shaders/");
 
-
-This C++ project framework is used to help students to implement geometric algorithms.
 
 ## System
 
@@ -24,4 +22,3 @@ resources           -- Some resources needed.
 
 ## Configuration
 
-Follow the instruction in the README.md of each algorithm folder.
