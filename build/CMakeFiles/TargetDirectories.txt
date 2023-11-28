@@ -1,0 +1,4 @@
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/build/harmonic_map/CMakeFiles/HarmonicMap.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/build/harmonic_map/CMakeFiles/ALL_BUILD.dir

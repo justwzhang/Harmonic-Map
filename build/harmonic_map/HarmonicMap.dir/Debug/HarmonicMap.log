@@ -1,0 +1,3 @@
+﻿  HarmonicMap.cpp
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\HarmonicMapMesh.h(204,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HarmonicMap.vcxproj -> C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\build\harmonic_map\Debug\HarmonicMap.exe

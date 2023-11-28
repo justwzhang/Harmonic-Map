@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/3rdparty/MeshLib/MeshLibConfig.cmake
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/harmonic_map/CMakeLists.txt

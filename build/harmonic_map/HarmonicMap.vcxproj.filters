@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\3rdparty\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\Arcball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\GLWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\HarmonicMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\Viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\ElementBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\VertexArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\VertexAttribLayout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\VertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\GLWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\HarmonicMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\HarmonicMapMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\ElementBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\VertexArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\VertexAttribLayout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\gl\VertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 3\HW 3\Code\harmonic_map\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{689FD6CF-E224-34D9-B776-0A3838263620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B7F4294B-DF74-3749-8844-58585F17FEFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\JUSTW\DESKTOP\CS HW\CS 528 GRAPHICS\HW 3\HW 3\CODE\BUILD\CMAKEFILES\BED1C4037A1BE706BA9E0949FB37C059\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code" "-BC:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 3/HW 3/Code/build/CCGHomework.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
